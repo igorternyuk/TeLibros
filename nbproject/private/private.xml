@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/Libro.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/Genero.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/gui/Visual.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/tablemodel/TModelAutor.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/exceptions/GeneroNotFoundException.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/validator/KeyListenerType.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/Data.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/conexion/config/config.txt</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/gui/Render.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/validator/TextFieldInputValidator.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/exceptions/AutorNotFoundException.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/gui/VentanaConTablaDeLibros.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/BasePOJO.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/Sexualidad.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/exceptions/PaisNotFoundException.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/celleditors/ComboBoxCellEditor.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/Pais.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/exceptions/LibroNotFoundException.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/tablemodel/TModelSimple.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/celleditors/SpinnerNumericCellEditor.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/Autor.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/celleditors/SpinnerDateCellEditor.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/gui/VentanaConTablaSencillo.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/tablemodel/TModelLibro.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/celleditors/SpinnerStringArrayEditor.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/model/script_libros.sql</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/conexion/Conexion.java</file>
+            <file>file:/home/igor/prj/java/TeLibros/src/telibros/gui/VentanaConTablaDeAutores.java</file>
+        </group>
+    </open-files>
+</project-private>

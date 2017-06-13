@@ -1,0 +1,8 @@
+[Server]
+localhost
+[User]
+igor
+[Password]
+1319
+[Database]
+bd_libros
